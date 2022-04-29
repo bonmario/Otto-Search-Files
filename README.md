@@ -2,7 +2,7 @@
   <br>
   <a href="https://sites.google.com/view/bonmarioinc/programs/otto-search?authuser=1"><img src="https://media.discordapp.net/attachments/608850682145144832/969415145728131082/otto_browser_logo_beta.png?width=464&height=464" alt="Otto Search" width="200"></a>
   <br>
-  <b>yuzu</b>
+  <b>Otto Search</b>
   <br>
 </h1>
  
